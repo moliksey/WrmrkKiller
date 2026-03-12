@@ -8,5 +8,5 @@
 /checkpoint_epoch_6.pth
 /checkpoint_epoch_8.pth
 /cleaned_image.jpg
-/new_venv
+*venv*
 /wm-nowm
