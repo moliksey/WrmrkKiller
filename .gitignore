@@ -10,3 +10,5 @@
 /cleaned_image.jpg
 *venv*
 /wm-nowm
+*__pycache__*
+*.pth
