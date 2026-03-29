@@ -11,3 +11,4 @@
 *venv*
 /wm-nowm
 *__pycache__*
+*.pth
