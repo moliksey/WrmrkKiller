@@ -1,0 +1,5 @@
+aiogram
+torch
+torchvision
+pillow
+numpy
